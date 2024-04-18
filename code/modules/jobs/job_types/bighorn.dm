@@ -113,7 +113,6 @@ Mayor
 	l_hand = 		/obj/item/clothing/head/helmet/f13/power_armor/town
 	glasses =		/obj/item/clothing/glasses/sunglasses
 	l_pocket =		/obj/item/storage/bag/money/small/bighorn
-=======
 	backpack = /obj/item/storage/backpack/enclave
 	satchel = /obj/item/storage/backpack/satchel/enclave
 	ears = /obj/item/radio/headset/headset_sheriff
@@ -126,8 +125,6 @@ Mayor
 	head = /obj/item/clothing/head/helmet/f13/enclave/usmcriot/dusty
 	l_pocket = /obj/item/storage/bag/money/small/bighorn
 	r_pocket = /obj/item/flashlight/flare
->>>>>>> Stashed changes
-
 	backpack_contents = list(
 		/obj/item/storage/box/deputy_badges=1, \
 		/obj/item/restraints/handcuffs=1, \
@@ -177,19 +174,16 @@ Mayor
 	satchel = /obj/item/storage/backpack/satchel/explorer
 	l_pocket = /obj/item/storage/bag/money/small/settler
 	r_pocket = /obj/item/flashlight/flare
-<<<<<<< Updated upstream
 	r_hand = /obj/item/gun/ballistic/rifle/repeater/trail
 	suit = 	/obj/item/clothing/suit/armor/vest/oasis
 	head =	/obj/item/clothing/head/f13/town/deputy
 	belt = /obj/item/gun/ballistic/revolver/colt357
 	shoes = 		/obj/item/clothing/shoes/f13/explorer
 	uniform = /obj/item/clothing/under/f13/cowboyb
-=======
 	belt = /obj/item/storage/belt/military/army
 	neck = /obj/item/storage/belt/holster/legholster
 	shoes = /obj/item/clothing/shoes/jackboots
 	uniform = /obj/item/clothing/under/syndicate/mercpadded
->>>>>>> Stashed changes
 	backpack_contents = list(
 		/obj/item/ammo_box/a357=2, \
 		/obj/item/ammo_box/tube/m44=2, \
