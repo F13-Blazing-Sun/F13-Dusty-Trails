@@ -100,11 +100,9 @@ Mayor
 	name = "Lieutenant"
 	jobtype = /datum/job/bighorn/f13sheriff
 	id = /obj/item/card/id/dogtag/sheriff
-<<<<<<< Updated upstream
 	belt = null
 	backpack = /obj/item/storage/backpack/satchel/explorer
 	satchel = /obj/item/storage/backpack/satchel/explorer
-
 	ears = 			/obj/item/radio/headset/headset_sheriff
 	uniform =  		/obj/item/clothing/under/f13/sheriff
 	neck =			/obj/item/storage/belt/holster/sheriff
