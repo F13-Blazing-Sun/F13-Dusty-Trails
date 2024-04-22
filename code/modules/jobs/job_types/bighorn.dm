@@ -448,6 +448,9 @@ Mayor
 		/obj/item/clothing/neck/apron/labor/forge/khan = 1,
 		/obj/item/storage/belt/utility/artisan/full = 1,
 		/obj/item/clothing/glasses/welding = 1,
+		/obj/item/stack/sheet/metal/fifty = 1,
+		/obj/item/stack/sheet/mineral/sandstone/twenty = 1,
+		/obj/item/stack/sheet/mineral/titanium/fifteen = 1,
 		/obj/item/book/granter/trait/techno = 1
 	) // No weapons, you should be crafting them or using your null rod.
 
