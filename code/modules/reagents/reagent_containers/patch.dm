@@ -114,7 +114,7 @@
 
 /obj/item/reagent_containers/pill/patch/hydra
 	name = "Hydra"
-	desc = "A fruit drink bottle with three sealed glass vials taped around the middle. It is filled with Hydra, a powerful wound-mending agent, derived from venomous radscorpion glands."
+	desc = "A fruit drink bottle with three sealed glass vials taped around the middle. It is filled with Hydra, a powerful wound-mending agent, derived from venomous cazador glands."
 	icon = 'icons/fallout/objects/medicine/drugs.dmi'
 	icon_state = "patch_hydra"
 	list_reagents = list(/datum/reagent/medicine/hydra = 10)
