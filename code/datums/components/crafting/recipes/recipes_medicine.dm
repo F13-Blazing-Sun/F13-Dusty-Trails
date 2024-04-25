@@ -125,7 +125,7 @@
 /datum/crafting_recipe/hydra
 	name = "Hydra"
 	result = /obj/item/reagent_containers/pill/patch/hydra
-	reqs = list(/obj/item/reagent_containers/food/snacks/meat/slab/radscorpion_meat = 2,
+	reqs = list(/obj/item/reagent_containers/food/snacks/meat/slab/cazador_meat = 1,
 				/obj/item/reagent_containers/food/snacks/grown/fungus = 2)
 	time = 15
 	category = CAT_MEDICAL
